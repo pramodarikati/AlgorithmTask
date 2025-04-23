@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlgorithmTask</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyCiSh4VnnI1jemtZTytDoj2X7Wl6evey30</string>
+
+    <string-array name="numbers_array">
+        <item>Odd Numbers</item>
+        <item>Even Numbers</item>
+        <item>Prime Numbers</item>
+        <item>Fibonacci Numbers</item>
+    </string-array>
+
+</resources>
